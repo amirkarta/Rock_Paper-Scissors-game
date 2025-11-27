@@ -5,8 +5,8 @@ The game keeps track of wins, losses, and ties using localStorage, and allows pl
 
 🚀 Live Demo
 
-(Add your GitHub Pages link here after deployment)
-https://your-username.github.io/rock-paper-scissors/
+(Check it out yourself😃👇🏼)
+https://amirkarta.github.io/Rock_Paper-Scissors-game/
 
 📂 Features
 
